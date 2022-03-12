@@ -1,4 +1,4 @@
-import requests from "../pages/requests";
+import requests from "../requests";
 import {useRouter} from "next/router"
 
 export default function Nav() {
